@@ -1,6 +1,6 @@
 {
-    "name": "BlueySkies",
-    "description": "MaroonSkies, but blue.",
+    "name": "Origins - Blue",
+    "description": "1 of 4, randomly selected colors from the members of Sound's world.",
     "authors": [
         {
             "name": "Ari",
@@ -9,128 +9,133 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#b5bee8"
+            "#a4bde0"
         ],
         "HEADER_SECONDARY": [
-            "#8b92b5"
+            "#5d6d85"
         ],
         "TEXT_NORMAL": [
-            "#b5bee8"
+            "#a4bde0"
         ],
         "TEXT_MUTED": [
-            "#8b92b5"
+            "#5d6d85"
         ],
         "TEXT_DANGER": [
-            "#4d68eb"
-        ],
-        "TEXT_LINK": [
-            "#4d68eb"
+            "#185ab8"
         ],
         "INTERACTIVE_NORMAL": [
-            "#959ec4"
+            "#185ab8"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b5bee8"
+            "#a4bde0"
         ],
         "INTERACTIVE_MUTED": [
-            "#6b718a"
+            "#254573"
         ],
         "BACKGROUND_PRIMARY": [
-            "#071452"
+            "#071a36"
         ],
         "BACKGROUND_SECONDARY": [
-            "#071452"
+            "#08244f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#040c33"
+            "#08244f"
         ],
         "BACKGROUND_TERTIARY": [
-            "#040c33"
+            "#071a36"
         ],
         "BACKGROUND_ACCENT": [
-            "#040c33"
+            "#0b3d85"
         ],
         "BACKGROUND_FLOATING": [
-            "#07145245"
+            "#08244f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#040c33"
+            "#071a36"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#0d3166"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#071452"
+            "#08244f"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#05114a"
+            "#08101c"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#13226e"
+            "#1e385e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#040c33"
+            "#071a36"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#0d3166"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#323e73"
+            "#124187"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#071452"
+            "#185ab8"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#071452"
+            "#5c4e97"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#040c33"
+            "#071a36"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#040c33"
+            "#071a36"
         ],
         "KEYBOARD": [
-            "#040c33"
+            "#281b54"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b5bee8"
+            "#185ab8"
         ],
         "CHANNEL_ICON": [
-            "#878ead"
+            "#185ab8"
         ],
         "CHANNELS_DEFAULT": [
-            "#878ead"
+            "#5d7aa3"
         ],
         "CHAT_BACKGROUND": [
-            "#040c33"
+            "#071a36"
+        ],
+        "TEXT_LINK": [
+            "#185ab8"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#040c33",
-        "PRIMARY_100": "#b5bee8",
-        "PRIMARY_200": "#8b92b5",
-        "PRIMARY_300": "#566bd6",
-        "PRIMARY_360": "#8b92b5",
-        "PRIMARY_400": "#566bd6",
-        "PRIMARY_500": "#071452",
-        "PRIMARY_600": "#071452",
-        "PRIMARY_630": "#040c33",
-        "PRIMARY_660": "#040c33",
-        "PRIMARY_700": "#040c33",
-        "PRIMARY_800": "#040c33",
-        "PRIMARY_900": "#040c33",
-        "YELLOW_300": "#7687db",
-        "BRAND_260": "#566bd6",
-        "BRAND_360": "#566bd6",
-        "BRAND_500": "#566bd6",
-        "BRAND_560": "#8e9de6",
-        "GREEN_360": "#566bd6",
-        "RED_400": "#566bd6",
-        "ORANGE_345": "#566bd6",
-        "RED_560": "#566bd6",
-        "GREEN_345": "#566bd6",
-        "BLUE_345": "#566bd6",
-        "WHITE_500": "#b5bee8"
+        "PRIMARY": "#071a36",
+        "PRIMARY_100": "#185ab8",
+        "PRIMARY_200": "#071a36",
+        "PRIMARY_300": "#185ab8",
+        "PRIMARY_360": "#6189c2",
+        "PRIMARY_400": "#185ab8",
+        "PRIMARY_500": "#0a2e63",
+        "PRIMARY_600": "#071a36",
+        "PRIMARY_630": "#071a36",
+        "PRIMARY_660": "#071a36",
+        "PRIMARY_700": "#071a36",
+        "PRIMARY_800": "#071a36",
+        "PRIMARY_900": "#071a36",
+        "YELLOW_300": "#185ab8",
+        "BRAND_260": "#185ab8",
+        "BRAND_500": "#185ab8",
+        "BRAND_560": "#a4bde0",
+        "GREEN_360": "#185ab8",
+        "RED_400": "#185ab8",
+        "ORANGE_345": "#185ab8",
+        "RED_560": "#07408f",
+        "GREEN_345": "#032e6b",
+        "BLUE_345": "#03234f"
+    
     },
     "background": {
         "blur": 0,
