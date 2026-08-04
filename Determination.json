@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": deltarune
+    "previewText": string,
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-Bold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-BoldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-Medium": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-MediumItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-Normal": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-NormalItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-Bold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-Medium": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-Normal": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-NormalItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "NotoSans-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf",
+        "SourceCodePro-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/determination.ttf"
+    }
+}
