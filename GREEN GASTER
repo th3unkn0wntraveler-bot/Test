@@ -1,5 +1,5 @@
 {
-    "name": "green aster",
+    "name": "GREEN gaster",
     "description": "Theme built around Cyberpunk 2077 HUD",
     "authors": [
       {
@@ -18,16 +18,16 @@
       "#000000"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#170005"
+      "#001701"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#000000"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#170005"
+      "#001701"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#170005"
+      "#001701"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#000000"
@@ -36,10 +36,10 @@
       "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-      "#170005"
+      "#001701"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#170005"
+      "#001701"
       ],
       "BACKGROUND_TERTIARY": [
       "#000000"
@@ -69,7 +69,7 @@
       "#72eaf8"
       ],
       "HOME_BACKGROUND": [
-      "#170005"
+      "#001701"
       ],
       "INTERACTIVE_ACTIVE": [
       "#39FF14"
@@ -199,14 +199,14 @@
       "YELLOW_900": "#39FF14",
       "WHITE_500": "#c7c7c7",
     "PLUM_13": "#181818",
-        "PLUM_15": "#170005",
+        "PLUM_15": "#001701",
         "PLUM_16": "#000000",
-        "PLUM_17": "#170005",
-        "PLUM_18": "#170005",
+        "PLUM_17": "#001701",
+        "PLUM_18": "#001701",
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_22": "#000000",
-        "PLUM_23": "#170005"
+        "PLUM_23": "#001701"
    },
         "background": {
         "blur": 0.1,
