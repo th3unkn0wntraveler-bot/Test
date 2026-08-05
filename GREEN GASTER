@@ -1,0 +1,217 @@
+{
+    "name": "Cyberpunk 2077",
+    "description": "Theme built around Cyberpunk 2077 HUD",
+    "authors": [
+      {
+        "name": "Shion",
+        "id": "499287211381096458"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#39FF14"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#000000"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#170005"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#170005"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#170005"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#000000"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#170005"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#170005"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#000000"
+      ],
+      "BORDER_FAINT": [
+      "#39FF14"
+      ],
+      "BORDER_STRONG": [
+      "#39FF14"
+      ],      
+      "BORDER_SUBTLE": [
+      "#39FF14"
+      ],
+      "CHANNEL_ICON": [
+      "#39FF14"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#72eaf8"
+      ],
+      "CHAT_BACKGROUND": [
+      "#000000"
+      ],
+      "HEADER_PRIMARY": [
+      "#72eaf8"
+      ],
+      "HEADER_SECONDARY": [
+      "#72eaf8"
+      ],
+      "HOME_BACKGROUND": [
+      "#170005"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#39FF14"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#72eaf8"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#6e6a86"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#7e5f5f"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#000000"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#120707"
+      ],
+      "TEXT_DANGER": [
+      "#39FF14"
+      ],
+      "TEXT_LINK": [
+      "#39FF14"
+      ],
+      "TEXT_MUTED": [
+      "#39FF14"
+      ],
+      "TEXT_NORMAL": [
+      "#c7c7c7"
+      ],
+      "TEXT_SECONDARY": [
+      "#c7c7c7"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#000000"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#000000"
+      ]
+    },
+    "rawColors": {
+      "BRAND_260": "#39FF14",
+      "BRAND_360": "#39FF14",
+      "BRAND_500": "#39FF14",
+      "GREEN_100": "#72eaf8",
+      "GREEN_130": "#39FF14",
+      "GREEN_160": "#39FF14",
+      "GREEN_200": "#39FF14",
+      "GREEN_230": "#39FF14",
+      "GREEN_260": "#39FF14",
+      "GREEN_300": "#39FF14",
+      "GREEN_330": "#39FF14",
+      "GREEN_345": "#39FF14",
+      "GREEN_360": "#39FF14",
+      "GREEN_400": "#39FF14",
+      "GREEN_430": "#39FF14",
+      "GREEN_460": "#39FF14",
+      "GREEN_500": "#39FF14",
+      "GREEN_530": "#39FF14",
+      "GREEN_560": "#39FF14",
+      "GREEN_600": "#39FF14",
+      "GREEN_630": "#39FF14",
+      "GREEN_660": "#39FF14",
+      "GREEN_700": "#39FF14",
+      "GREEN_730": "#39FF14",
+      "GREEN_760": "#39FF14",
+      "GREEN_800": "#39FF14",
+      "GREEN_830": "#39FF14",
+      "GREEN_860": "#39FF14",
+      "GREEN_900": "#39FF14",
+      "GUILD_BOOSTING_PINK": "#39FF14",   
+      "GUILD_BOOSTING_PURPLE": "#39FF14",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#39FF14",
+      "PRIMARY_100": "#610017",
+      "PRIMARY_230": "#39FF14",
+      "PRIMARY_300": "#72eaf8",
+      "PRIMARY_360": "#72eaf8",    
+      "PRIMARY_400": "#72eaf8",
+      "PRIMARY_460": "#000000",
+      "PRIMARY_500": "#39FF14",
+      "PRIMARY_600": "#000000",
+      "PRIMARY_630": "#000000",
+      "PRIMARY_660": "#000000",
+      "PRIMARY_700": "#000000",
+      "PRIMARY_800": "#000000",
+      "RED_260": "#39FF14",
+      "RED_300": "#39FF14",
+      "RED_330": "#39FF14",
+      "RED_345": "#39FF14",
+      "RED_360": "#39FF14",
+      "RED_400": "#39FF14",
+      "RED_430": "#39FF14",
+      "RED_460": "#39FF14",
+      "RED_500": "#39FF14",
+      "RED_530": "#39FF14",
+      "RED_560": "#39FF14",
+      "RED_600": "#39FF14",
+      "RED_630": "#39FF14",
+      "RED_660": "#39FF14",
+      "RED_700": "#39FF14",
+      "YELLOW_100": "#39FF14",
+      "YELLOW_130": "#39FF14",
+      "YELLOW_160": "#39FF14",
+      "YELLOW_200": "#39FF14",
+      "YELLOW_230": "#39FF14",
+      "YELLOW_260": "#39FF14",
+      "YELLOW_300": "#39FF144d",
+      "YELLOW_330": "#39FF14",
+      "YELLOW_345": "#39FF14",
+      "YELLOW_360": "#39FF14",
+      "YELLOW_400": "#39FF14",
+      "YELLOW_430": "#39FF14",
+      "YELLOW_460": "#39FF14",
+      "YELLOW_500": "#39FF14",
+      "YELLOW_530": "#39FF14",
+      "YELLOW_560": "#39FF14",
+      "YELLOW_600": "#39FF14",
+      "YELLOW_630": "#39FF14",
+      "YELLOW_660": "#39FF14",
+      "YELLOW_700": "#39FF14",
+      "YELLOW_730": "#39FF14",
+      "YELLOW_760": "#39FF14",
+      "YELLOW_800": "#39FF14",
+      "YELLOW_830": "#39FF14",
+      "YELLOW_860": "#39FF14",
+      "YELLOW_900": "#39FF14",
+      "WHITE_500": "#c7c7c7",
+    "PLUM_13": "#181818",
+        "PLUM_15": "#170005",
+        "PLUM_16": "#000000",
+        "PLUM_17": "#170005",
+        "PLUM_18": "#170005",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_23": "#170005"
+   },
+        "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "alpha": 1.0
+    },
+    "spec": 2
+}
