@@ -87,7 +87,7 @@
       "#000000"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#120707"
+      "#071207"
       ],
       "TEXT_DANGER": [
       "#39FF14"
@@ -144,7 +144,7 @@
       "GUILD_BOOSTING_PINK": "#39FF14",   
       "GUILD_BOOSTING_PURPLE": "#39FF14",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#39FF14",
-      "PRIMARY_100": "#610017",
+      "PRIMARY_100": "#006100",
       "PRIMARY_230": "#39FF14",
       "PRIMARY_300": "#72eaf8",
       "PRIMARY_360": "#72eaf8",    
