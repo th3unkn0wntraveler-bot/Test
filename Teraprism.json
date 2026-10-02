@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "terapsim",
+    "previewText": "string",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-Bold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-BoldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-Medium": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-MediumItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-Normal": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-NormalItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "ggsans-SemiboldItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-Bold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-ExtraBold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-Medium": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-Normal": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-NormalItalic": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "NotoSans-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf",
+        "SourceCodePro-Semibold": "https://github.com/th3unkn0wntraveler-bot/Test/raw/refs/heads/main/Theraprism_0%20(1).ttf"
+    }
+}
